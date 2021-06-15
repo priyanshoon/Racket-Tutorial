@@ -6,3 +6,15 @@
 "Hello, World!"
 ;Adding the string is called string append which is called string-append function
 (string-append "Priyanshu" " " "Prasad" " " "Gupta")
+;String and number cannot be same af
+
+;this is string
+"1234567890"
+;this is number
+1234567890
+;Checking the length of string
+(string-length "Priyanshu")
+;Substring takes of the sliced string from original String
+(substring "Krish" 2 4)
+
+
